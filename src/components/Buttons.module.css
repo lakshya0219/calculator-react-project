@@ -1,0 +1,20 @@
+
+
+.outbutton
+{
+  margin: 5px;
+  margin-top: 8px;
+  border: 1px solid rgb(255, 0, 60);
+  height: 85%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.inbutton
+{
+  /* display: flex;
+  flex-wrap: wrap; */
+  height: 50px;
+  width: 50px;
+  margin: 6px;
+  gap: 5px;
+}
